@@ -1,0 +1,100 @@
+Value of K: 5
+SSE:1132.6264712327304
+Size of each cluster
+1 : 326 tweets
+2 : 251 tweets
+3 : 296 tweets
+4 : 400 tweets
+5 : 127 tweets
+
+
+Value of K: 10
+SSE:1072.5971514606772
+Size of each cluster
+1 : 34 tweets
+2 : 113 tweets
+3 : 241 tweets
+4 : 55 tweets
+5 : 40 tweets
+6 : 237 tweets
+7 : 124 tweets
+8 : 148 tweets
+9 : 187 tweets
+10 : 221 tweets
+
+
+Value of K: 15
+SSE:1054.1993895065773
+Size of each cluster
+1 : 128 tweets
+2 : 186 tweets
+3 : 27 tweets
+4 : 191 tweets
+5 : 133 tweets
+6 : 33 tweets
+7 : 161 tweets
+8 : 40 tweets
+9 : 25 tweets
+10 : 14 tweets
+11 : 57 tweets
+12 : 155 tweets
+13 : 17 tweets
+14 : 72 tweets
+15 : 161 tweets
+
+
+Value of K: 20
+SSE:1028.5671526185738
+Size of each cluster
+1 : 130 tweets
+2 : 30 tweets
+3 : 96 tweets
+4 : 64 tweets
+5 : 31 tweets
+6 : 71 tweets
+7 : 111 tweets
+8 : 33 tweets
+9 : 28 tweets
+10 : 80 tweets
+11 : 183 tweets
+12 : 115 tweets
+13 : 16 tweets
+14 : 126 tweets
+15 : 14 tweets
+16 : 34 tweets
+17 : 99 tweets
+18 : 75 tweets
+19 : 43 tweets
+20 : 21 tweets
+
+
+Value of K: 25
+SSE:1026.136759829963
+Size of each cluster
+1 : 41 tweets
+2 : 31 tweets
+3 : 19 tweets
+4 : 29 tweets
+5 : 37 tweets
+6 : 25 tweets
+7 : 193 tweets
+8 : 79 tweets
+9 : 125 tweets
+10 : 11 tweets
+11 : 140 tweets
+12 : 78 tweets
+13 : 10 tweets
+14 : 113 tweets
+15 : 55 tweets
+16 : 130 tweets
+17 : 49 tweets
+18 : 15 tweets
+19 : 22 tweets
+20 : 44 tweets
+21 : 19 tweets
+22 : 51 tweets
+23 : 13 tweets
+24 : 66 tweets
+25 : 5 tweets
+
+
